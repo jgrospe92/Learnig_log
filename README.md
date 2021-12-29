@@ -1,8 +1,9 @@
 # Learnig_log
-An online journal website built using python, django and deployed using Heroku
+A respon online journal website built using python, django and deployed using Heroku
 
 # Live Website
  - [Learning_Log](https://learning-log-journal.herokuapp.com/)
+ - Responsive design
 
 # What I Learned
  - Understanding how Django framework works, and the benefits of using it.
