@@ -4,9 +4,6 @@ An online journal website built using python, django and deployed using Heroku
 # Live Website
  - [Learning_Log](https://learning-log-journal.herokuapp.com/)
 
-## Reference
- - Python Crash Crouse 2nd (*Eric Matthes*)
-
 # What I Learned
  - Understanding how Django framework works, and the benefits of using it.
  - Web developement with Python.
@@ -23,4 +20,7 @@ An online journal website built using python, django and deployed using Heroku
  - Figuring out how to delete a child without deleting the parent object.
  - Styling the buttons to match the general theme
  - Solving the error NoReverseMatch
+
+## Reference
+ - Python Crash Crouse 2nd (*Eric Matthes*)
 
