@@ -6,7 +6,7 @@ An online journal website built using python, django and deployed using Heroku
  - Responsive design
 
 # What I Learned
- - Understanding how Django framework works, and the benefits of using it.
+ - Understand how Django framework works, and the benefits of using it.
  - Web developement with Python.
  - Deploying a website using Heroku.
 
