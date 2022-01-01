@@ -1,5 +1,5 @@
 # Learnig_log
-A online journal website built using python, django and deployed using Heroku
+An online journal website built using python, django and deployed using Heroku
 
 # Live Website
  - [Learning_Log](https://learning-log-journal.herokuapp.com/)
